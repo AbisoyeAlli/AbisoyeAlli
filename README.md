@@ -1,12 +1,14 @@
 ### Hola! I'm Abisoye👋
 
-I develop awesome websites and web applications using in-demand web technologies. I currently run a consulting firm that specializes in helping small and medium-scale businesses build traction by developing websites and digital presence.
-I enjoy contributing to open source projects, reading great books and watching movies; comedy and romance are my favourites. When I have time to spare, I hangout with friends or play NBA 2k career.
+I develop awesome websites and applications using in-demand technologies. 
+
+I enjoy contributing to open source projects, developer relations, reading great books, and watching movies; comedy and romance are my favourites. 
+When I have time to spare, I hangout with friends or play NBA 2k career.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
