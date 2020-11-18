@@ -8,8 +8,3 @@ When I have time to spare, I hangout with friends or play NBA 2k career.
 [![Abisoye's github stats](https://github-readme-stats.vercel.app/api/?username=AbisoyeAlli&show_icons=true&theme=radical)](https://github.com/AbisoyeAlli/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbisoyeAlli&layout=compact&theme=dark)](https://github.com/AbisoyeAlli/github-readme-stats)
 
-
-- 💬 Ask me about: Frontend development 
-- Website: https://abisoyealli.github.io/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't swim
