@@ -2,7 +2,7 @@
 
 I develop web applications using in-demand technologies. I love learning and building great products
 
-I enjoy contributing to open source projects, developer relations, reading great books, and watching movies; comedy and romance are my favourites. 
+I enjoy reading great books, watching movies (comedy and romance are my favourites), and contributing to open source projects. 
 When I have time to spare, I hangout with friends or play NBA 2k career.
 
 [![Abisoye's github stats](https://github-readme-stats.vercel.app/api/?username=AbisoyeAlli&show_icons=true&theme=radical)](https://github.com/AbisoyeAlli/github-readme-stats)
