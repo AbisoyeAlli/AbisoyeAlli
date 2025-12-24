@@ -73,17 +73,19 @@ const abisoye = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbisoyeAlli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbisoyeAlli&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbisoyeAlli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbisoyeAlli&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&user=AbisoyeAlli" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AbisoyeAlli&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [How We Achieved a Perfect 100/100 Lighthouse Score on MyNaijaTax](https://abisoye.dev/blog/perfect-lighthouse-score)
+- [Migrating My Portfolio from Next.js to Astro: A Technical Deep Dive](https://abisoye.dev/blog/migrating-from-nextjs-to-astro)
+
+Read more [here](https://abisoye.dev/blog), or subscribe to my [substack](https://abisoyeoladayo.substack.com/)
 
 ### 🎯 Current Goals for 2025
 - 🚀 Launch PawPals mobile app
