@@ -87,7 +87,7 @@ const abisoye = {
 
 Read more [here](https://abisoye.dev/blog), or subscribe to my [substack](https://abisoyeoladayo.substack.com/)
 
-### 🎯 Current Goals for 2025
+### 🎯 Current Goals for 2026
 - 🚀 Launch PawPals mobile app
 - 💼 Join a high-impact engineering team
 - 📚 Deep dive into AI/ML & distributed systems
