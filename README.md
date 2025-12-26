@@ -63,7 +63,7 @@ const abisoye = {
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
         </a>
       </p>
-      <p>Smart training companion for hard-gainer users, focused on hypertrophy, progressive overload, and sustainable strength gains.</p>
+      <p>iOS workout tracking app built with SwiftUI and SwiftData. Focuses on smart progression recommendations and analytics</p>
       <p><strong>Tech:</strong> SwiftUI, TypeScript, iOS development</p>
     </td>
   </tr>
