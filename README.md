@@ -23,13 +23,12 @@
 ### 🛠️ Tech Stack
 ```javascript
 const abisoye = {
-    code: ["JavaScript", "TypeScript", "Python"],
-    frontend: ["React", "React Native", "Next.js", "Expo", "Swift", "Java"],
-    backend: ["Node.js", "Express", "Serverless"],
-    cloud: ["AWS", "Vercel", "Cloudflare"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    tools: ["Docker", "CI/CD", "Git", "Linux"],
-    architecture: ["Microservices", "Serverless", "Event-Driven"],
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    frontend: ["React", "React Native", "Next.js", "Expo", "Swift", "Vue.js", "Astro", "Nuxt"],
+    backend: ["Node.js", "Express", "Laravel", "Django"],
+    cloud: ["AWS", "Vercel", "Cloudflare", "GCP"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
+    tools: ["Docker", "CI/CD", "Git", "Linux", "Kubernetes"],
     currentFocus: "Building AI-powered solutions"
 };
 ```
@@ -45,7 +44,7 @@ const abisoye = {
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
         </a>
       </p>
-      <p>AI-powered veterinary assistant platform serving 3+ veterinary practices. Built with React Native & Expo for cross-platform deployment.</p>
+      <p>AI-powered veterinary assistant platform serving 3+ veterinary practices.</p>
       <p><strong>Tech:</strong> React Native, AI/ML, Node.js, Computer vision, AWS</p>
     </td>
     <td width="33.33%">
@@ -55,7 +54,7 @@ const abisoye = {
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
         </a>
       </p>
-      <p>Comprehensive Nigerian tax calculator with personal & business tax calculations, social sharing, and PDF export capabilities.</p>
+      <p>Comprehensive Nigerian personal & business tax calculator with social sharing, and PDF exports.</p>
       <p><strong>Tech:</strong> React, TypeScript, PDF Generation</p>
     </td>
      <td width="33.33%">
@@ -65,7 +64,7 @@ const abisoye = {
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
         </a>
       </p>
-      <p>Specifically for skinny / hard-gainer users, focused on hypertrophy, progressive overload, and sustainable strength gains, rather than generic fitness tracking.</p>
+      <p>Smart training companion for hard-gainer users, focused on hypertrophy, progressive overload, and sustainable strength gains.</p>
       <p><strong>Tech:</strong> SwiftUI, TypeScript, iOS development</p>
     </td>
   </tr>
