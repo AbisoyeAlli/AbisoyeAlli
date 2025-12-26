@@ -18,6 +18,7 @@
 - **Founder** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
 - **MSc Computer Science (Virtual & Augmented Reality)** from Liverpool John Moores University
 - **UK Global Talent**
+- Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
 
 ### 🛠️ Tech Stack
 ```javascript
