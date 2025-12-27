@@ -44,7 +44,7 @@ const abisoye = {
         </a>
       </p>
       <p>AI-powered veterinary assistant platform serving 3+ veterinary practices.</p>
-      <p><strong>Tech:</strong> React Native, AI/ML, Node.js, Computer vision, AWS</p>
+      <p><strong>Tech:</strong> Nextjs, TypeScript, OpenAI, Node.js, Computer vision, AWS, PostgreSQL</p>
     </td>
     <td width="33.33%">
       <h3 align="center">💰 MyNaijaTax</h3>
