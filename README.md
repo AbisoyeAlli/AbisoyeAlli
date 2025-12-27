@@ -64,7 +64,7 @@ const abisoye = {
         </a>
       </p>
       <p>iOS workout tracking app built with SwiftUI and SwiftData. Focuses on smart progression recommendations and analytics</p>
-      <p><strong>Tech:</strong> SwiftUI, TypeScript, iOS development</p>
+      <p><strong>Tech:</strong> SwiftUI, SwiftData, CoreML</p>
     </td>
   </tr>
 </table>
