@@ -73,7 +73,7 @@ const abisoye = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbisoyeAlli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbisoyeAlli&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbisoyeAlli&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -81,6 +81,7 @@ const abisoye = {
 </div>
 
 ### 📝 Latest Blog Posts
+- [Building a Semantic Search Engine from Scratch: Embeddings, ChromaDB, and the Metadata Trap](https://abisoye.dev/blog/semantic-search-chromadb-metadata-trap)
 - [How We Achieved a Perfect 100/100 Lighthouse Score on MyNaijaTax](https://abisoye.dev/blog/perfect-lighthouse-score)
 - [Migrating My Portfolio from Next.js to Astro: A Technical Deep Dive](https://abisoye.dev/blog/migrating-from-nextjs-to-astro)
 
