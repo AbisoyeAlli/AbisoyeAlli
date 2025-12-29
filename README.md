@@ -57,7 +57,7 @@ const abisoye = {
       <p><strong>Tech:</strong> React, TypeScript, PDF Generation</p>
     </td>
      <td width="33.33%">
-      <h3 align="center">💪🏼 Keelow</h3>
+      <h3 align="center">📱 Keelow</h3>
       <p align="center">
         <a href="https://keelow.app" target="_blank">
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
