@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - **Full Stack Product Engineer (Frontend leaning)** with ~5 years of enterprise experience
-- **Founder** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
+- **Founder/Organiser** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
 - **MSc Computer Science (Virtual & Augmented Reality)** from Liverpool John Moores University
 - Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
 
