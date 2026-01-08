@@ -81,10 +81,10 @@ const abisoye = {
 </div>
 
 ### 📝 Latest Blog Posts
+- [Building Context-First Retrieval Pipelines](https://abisoye.dev/blog/rag-without-the-llm)
 - [Parsing Heterogeneous Metadata: A Case Study in Multi-Format ETL](https://abisoye.dev/blog/multi-format-metadata-etl-parsing)
 - [Building a Semantic Search Engine from Scratch: Embeddings, ChromaDB, and the Metadata Trap](https://abisoye.dev/blog/semantic-search-chromadb-metadata-trap)
 - [How We Achieved a Perfect 100/100 Lighthouse Score on MyNaijaTax](https://abisoye.dev/blog/perfect-lighthouse-score)
-- [Migrating My Portfolio from Next.js to Astro: A Technical Deep Dive](https://abisoye.dev/blog/migrating-from-nextjs-to-astro)
 
 Read more **[here](https://abisoye.dev/blog)**, or subscribe to my **[substack](https://abisoyeoladayo.substack.com/)**
 
