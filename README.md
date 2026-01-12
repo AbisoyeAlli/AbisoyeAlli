@@ -16,14 +16,14 @@
 
 - **Full Stack Product Engineer (Frontend leaning)** with ~5 years of enterprise experience
 - **Founder/Organiser** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
-- **MSc Computer Science (Virtual & Augmented Reality)** from Liverpool John Moores University
+- **MSc Computer Science** from **[Liverpool John Moores University](https://www.ljmu.ac.uk/)**
 - Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
 
 ### 🛠️ Tech Stack
 ```javascript
 const abisoye = {
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    frontend: ["React", "React Native", "Next.js", "Expo", "Swift", "Vue.js", "Astro", "Nuxt"],
+    code: ["JavaScript", "TypeScript", "Python"],
+    frontend: ["React", "Vue.js", "React Native", "Next.js", "Expo", "Swift", "Astro", "Nuxt"],
     backend: ["Node.js", "Express", "Laravel", "Django"],
     cloud: ["AWS", "Vercel", "Cloudflare", "GCP"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
@@ -89,7 +89,7 @@ const abisoye = {
 Read more **[here](https://abisoye.dev/blog)**, or subscribe to my **[substack](https://abisoyeoladayo.substack.com/)**
 
 ### 🎯 Current Goals for 2026
-- 🚀 Launch PawPals mobile app
+- 🚀 Launch Keelow & PawPals mobile app
 - 💼 Join a high-impact engineering team
 - 📚 Deep dive into AI/ML & distributed systems
 - 🌱 Grow Liverpool React Group community
