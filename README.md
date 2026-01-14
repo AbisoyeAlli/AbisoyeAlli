@@ -18,7 +18,7 @@
 - **Founder/Organiser** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
 - **MSc Computer Science** from **[Liverpool John Moores University](https://www.ljmu.ac.uk/)**
 - Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
-- Creator and Maintainer of **[Hovue](https://hovue-icons.vercel.app/)**
+- Creator and Maintainer of **[Hovue](https://hovue.xyz/)**
 
 ### 🛠️ Tech Stack
 ```javascript
@@ -50,7 +50,7 @@ const abisoye = {
     <td width="50%">
       <h3 align="center">📦 Hovue</h3>
       <p align="center">
-        <a href="https://hovue-icons.vercel.app/" target="_blank">
+        <a href="https://hovue.xyz/" target="_blank">
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
         </a>
       </p>
