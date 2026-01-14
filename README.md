@@ -18,6 +18,7 @@
 - **Founder/Organiser** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
 - **MSc Computer Science** from **[Liverpool John Moores University](https://www.ljmu.ac.uk/)**
 - Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
+- Creator and Maintainer of **[Hovue](https://hovue-icons.vercel.app/)**
 
 ### 🛠️ Tech Stack
 ```javascript
@@ -36,7 +37,7 @@ const abisoye = {
 
 <table>
   <tr>
-    <td width="33.33%">
+    <td width="50%">
       <h3 align="center">📱 Keelow</h3>
       <p align="center">
         <a href="https://keelow.app" target="_blank">
@@ -46,7 +47,20 @@ const abisoye = {
       <p>iOS workout tracking app built with SwiftUI and SwiftData. Focuses on smart progression recommendations and analytics</p>
       <p><strong>Tech:</strong> SwiftUI, SwiftData, CoreML</p>
     </td>
-    <td width="33.33%">
+    <td width="50%">
+      <h3 align="center">📦 Hovue</h3>
+      <p align="center">
+        <a href="https://hovue-icons.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
+        </a>
+      </p>
+      <p>Editable Vue components with motion baked in. Works seamlessly with Nuxt, shadcn-vue, and modern design systems.</p>
+      <p><strong>Tech:</strong> Astro, Vue, TypeScript, CSS, HTML, JavaScript, Shell</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
       <h3 align="center">🐾 PawPals</h3>
       <p align="center">
         <a href="https://pawpals.app" target="_blank">
@@ -56,7 +70,7 @@ const abisoye = {
       <p>AI-powered veterinary assistant platform serving 3+ veterinary practices.</p>
       <p><strong>Tech:</strong> Nextjs, TypeScript, OpenAI, Node.js, Computer vision, AWS, PostgreSQL</p>
     </td>
-    <td width="33.33%">
+    <td width="50%">
       <h3 align="center">💰 MyNaijaTax</h3>
       <p align="center">
         <a href="https://mynaijatax.info" target="_blank">
