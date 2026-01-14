@@ -37,6 +37,16 @@ const abisoye = {
 <table>
   <tr>
     <td width="33.33%">
+      <h3 align="center">📱 Keelow</h3>
+      <p align="center">
+        <a href="https://keelow.app" target="_blank">
+          <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
+        </a>
+      </p>
+      <p>iOS workout tracking app built with SwiftUI and SwiftData. Focuses on smart progression recommendations and analytics</p>
+      <p><strong>Tech:</strong> SwiftUI, SwiftData, CoreML</p>
+    </td>
+    <td width="33.33%">
       <h3 align="center">🐾 PawPals</h3>
       <p align="center">
         <a href="https://pawpals.app" target="_blank">
@@ -55,16 +65,6 @@ const abisoye = {
       </p>
       <p>Comprehensive Nigerian personal & business tax calculator with social sharing, and PDF exports.</p>
       <p><strong>Tech:</strong> React, TypeScript, PDF Generation</p>
-    </td>
-     <td width="33.33%">
-      <h3 align="center">📱 Keelow</h3>
-      <p align="center">
-        <a href="https://keelow.app" target="_blank">
-          <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
-        </a>
-      </p>
-      <p>iOS workout tracking app built with SwiftUI and SwiftData. Focuses on smart progression recommendations and analytics</p>
-      <p><strong>Tech:</strong> SwiftUI, SwiftData, CoreML</p>
     </td>
   </tr>
 </table>
