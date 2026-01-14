@@ -71,14 +71,14 @@ const abisoye = {
       <p><strong>Tech:</strong> Nextjs, TypeScript, OpenAI, Node.js, Computer vision, AWS, PostgreSQL</p>
     </td>
     <td width="50%">
-      <h3 align="center">💰 MyNaijaTax</h3>
+      <h3 align="center">🏗️ Archi AI</h3>
       <p align="center">
-        <a href="https://mynaijatax.info" target="_blank">
+        <a href="https://archi-ai-gemini.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
         </a>
       </p>
-      <p>Comprehensive Nigerian personal & business tax calculator with social sharing, and PDF exports.</p>
-      <p><strong>Tech:</strong> React, TypeScript, PDF Generation</p>
+      <p>Transform 2D architectural floor plans into interactive 3D models using Google Gemini 3's multimodal AI</p>
+      <p><strong>Tech:</strong> Nextjs, TypeScript, Gemini-3, Vertex AI, React Three Fiber + @react-three/drei, FalAI, Nano Banana, Zustand</p>
     </td>
   </tr>
 </table>
