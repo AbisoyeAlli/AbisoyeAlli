@@ -73,7 +73,7 @@ const abisoye = {
     <td width="50%">
       <h3 align="center">🏗️ Archi AI</h3>
       <p align="center">
-        <a href="https://archi-ai-gemini.vercel.app/" target="_blank">
+        <a href="https://www.archi-ai.xyz/" target="_blank">
           <img src="https://img.shields.io/badge/-Visit_Site-A855F7?style=for-the-badge"/>
         </a>
       </p>
