@@ -15,10 +15,10 @@
 ### 👨‍💻 About Me
 
 - **Full Stack Product Engineer (Frontend leaning)** with ~5 years of enterprise experience
-- **Founder/Organiser** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
+- Creator and Maintainer of **[Hovue](https://hovue.xyz/)**
 - **MSc Computer Science** from Liverpool John Moores University
 - Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
-- Creator and Maintainer of **[Hovue](https://hovue.xyz/)**
+- **Founder/Organiser** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
 
 ### 🛠️ Tech Stack
 ```javascript
