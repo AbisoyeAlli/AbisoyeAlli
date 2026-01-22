@@ -103,10 +103,10 @@ const abisoye = {
 Read more **[here](https://abisoye.dev/blog)**, or subscribe to my **[substack](https://abisoyeoladayo.substack.com/)**
 
 ### 🎯 Current Goals for 2026
-- 🚀 Launch Keelow & PawPals mobile app
 - 💼 Join a high-impact engineering team
+- 🚀 Launch **Keelow** & **PawPals** mobile app
 - 📚 Deep dive into AI/ML & distributed systems
-- 🌱 Grow Liverpool React Group community
+- 🌱 Grow **Hovue** and **Liverpool React Group community**
 
 ---
 
