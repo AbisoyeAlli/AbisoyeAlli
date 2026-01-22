@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- **Full Stack Product Engineer (Frontend leaning)** with ~5 years of enterprise experience
+- **Full Stack Product Engineer** with ~5 years of enterprise experience
 - Creator and Maintainer of **[Hovue](https://hovue.xyz/)**
 - **MSc Computer Science** from Liverpool John Moores University
 - Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
