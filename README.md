@@ -17,7 +17,7 @@
 - **Full Stack Product Engineer** with ~5 years of enterprise experience
 - Creator and Maintainer of **[Hovue](https://hovue.xyz/)**
 - **MSc Computer Science** from Liverpool John Moores University
-- Currently building **[Keelow](https://keelow.app)** and **[Pawpals](https://pawpals.app)**
+- Currently building **[Keelow](https://keelow.app)** and **[Archi AI](https://archi-ai.xyz)**
 - **Founder/Organiser** of **[Liverpool React Group](https://www.meetup.com/liverpool-reactjs-meetup-group/)**
 
 ### 🛠️ Tech Stack
