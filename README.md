@@ -24,8 +24,8 @@
 ```javascript
 const abisoye = {
     code: ["JavaScript", "TypeScript", "Python"],
-    frontend: ["React", "Vue.js", "React Native", "Next.js", "Expo", "Swift", "Astro", "Nuxt"],
-    backend: ["Node.js", "Express", "Laravel", "Django"],
+    frontend: ["React", "Vue.js", "Nuxt", "Next.js", "Astro", "React Native", "SwiftUI"],
+    backend: ["Node.js", "Express", "Laravel", "Django", "FastAPI"],
     cloud: ["AWS", "Vercel", "Cloudflare", "GCP"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
     tools: ["Docker", "CI/CD", "Git", "Linux", "Kubernetes"],
@@ -104,7 +104,7 @@ Read more **[here](https://abisoye.dev/blog)**, or subscribe to my **[substack](
 
 ### 🎯 Current Goals for 2026
 - 💼 Join a high-impact engineering team
-- 🚀 Launch **Keelow** & **PawPals** mobile app
+- 🚀 Launch **Keelow** app
 - 📚 Deep dive into AI/ML & distributed systems
 - 🌱 Grow **Hovue** and **Liverpool React Group community**
 
