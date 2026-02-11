@@ -103,7 +103,7 @@ const abisoye = {
 Read more **[here](https://abisoye.dev/blog)**, or subscribe to my **[substack](https://abisoyeoladayo.substack.com/)**
 
 ### 🎯 Current Goals for 2026
-- 💼 Join a high-impact engineering team
+- 💼 Join a high-impact engineering team: Achieved ✅
 - 🚀 Launch **Keelow** app
 - 📚 Deep dive into AI/ML & distributed systems
 - 🌱 Grow **Hovue** and **Liverpool React Group community**
