@@ -95,6 +95,7 @@ const abisoye = {
 </div>
 
 ### 📝 Latest Blog Posts
+- [Does memo Actually Save Memory](https://abisoye.dev/blog/does-memo-actually-save-memory)
 - [Hovue: Building an Animated Vue Icon Library with Motion Baked In](https://abisoye.dev/blog/hovue-animated-vue-icon-library)
 - [Building Context-First Retrieval Pipelines](https://abisoye.dev/blog/rag-without-the-llm)
 - [Parsing Heterogeneous Metadata: A Case Study in Multi-Format ETL](https://abisoye.dev/blog/multi-format-metadata-etl-parsing)
