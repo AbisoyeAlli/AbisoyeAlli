@@ -24,12 +24,12 @@
 ```javascript
 const abisoye = {
     code: ["JavaScript", "TypeScript", "Python"],
-    frontend: ["React", "Vue.js", "Nuxt", "Next.js", "Astro", "React Native", "SwiftUI"],
+    frontend: ["React/Next.js", "Vue.js/Nuxt", "Astro", "React Native", "SwiftUI"],
     backend: ["Node.js", "Express", "Laravel", "Django", "FastAPI"],
-    cloud: ["AWS", "Vercel", "Cloudflare", "GCP"],
+    cloud: ["AWS", "Cloudflare", "GCP"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-    tools: ["Docker", "CI/CD", "Git", "Linux", "Kubernetes"],
-    currentFocus: "Building AI-powered solutions"
+    tools: ["Docker", "CI/CD", "Git", "Linux", "Kubernetes*"],
+    currentFocus: "Building AI-powered solutions & Distributed Systems"
 };
 ```
 
