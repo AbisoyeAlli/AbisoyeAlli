@@ -95,12 +95,12 @@ const abisoye = {
 </div>
 
 ### 📝 Latest Blog Posts
+- [Designing Resilient APIs: Retry Strategies, Circuit Breakers, and Graceful Degradation](https://abisoye.dev/blog/designing-resilient-apis)
+- [Measuring and Optimizing Core Web Vitals on High-Traffic Pages](https://abisoye.dev/blog/measuring-optimizing-core-web-vitals)
 - [React Server Components (RSC) in Production: Trade-offs and Patterns](https://abisoye.dev/blog/react-server-components-in-production)
 - [Does memo Actually Save Memory](https://abisoye.dev/blog/does-memo-actually-save-memory)
 - [Hovue: Building an Animated Vue Icon Library with Motion Baked In](https://abisoye.dev/blog/hovue-animated-vue-icon-library)
 - [Building Context-First Retrieval Pipelines](https://abisoye.dev/blog/rag-without-the-llm)
-- [Parsing Heterogeneous Metadata: A Case Study in Multi-Format ETL](https://abisoye.dev/blog/multi-format-metadata-etl-parsing)
-- [Building a Semantic Search Engine from Scratch: Embeddings, ChromaDB, and the Metadata Trap](https://abisoye.dev/blog/semantic-search-chromadb-metadata-trap)
 
 Read more **[here](https://abisoye.dev/blog)**, or subscribe to my **[substack](https://abisoyeoladayo.substack.com/)**
 
