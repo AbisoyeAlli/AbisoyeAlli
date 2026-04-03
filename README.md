@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- **Full Stack Product Engineer** with ~5 years of enterprise experience
+- **Full Stack Product Engineer** with over 5 years of enterprise experience
 - Creator and Maintainer of **[Hovue](https://hovue.xyz/)**
 - **MSc Computer Science** from Liverpool John Moores University
 - Currently building **[Keelow](https://keelow.app)** and **[Archi AI](https://archi-ai.xyz)**
@@ -95,10 +95,10 @@ const abisoye = {
 </div>
 
 ### 📝 Latest Blog Posts
+- [How to Detect and Handle Byzantine Failures in Distributed Systems](https://abisoye.dev/blog/when-your-api-lies-byzantine-failures)
 - [Designing Resilient APIs: Retry Strategies, Circuit Breakers, and Graceful Degradation](https://abisoye.dev/blog/designing-resilient-apis)
 - [Measuring and Optimizing Core Web Vitals on High-Traffic Pages](https://abisoye.dev/blog/measuring-optimizing-core-web-vitals)
-- [React Server Components (RSC) in Production: Trade-offs and Patterns](https://abisoye.dev/blog/react-server-components-in-production)
-- [Does memo Actually Save Memory](https://abisoye.dev/blog/does-memo-actually-save-memory)
+- [How to Use React Server Components in Production: Trade-offs and Patterns](https://abisoye.dev/blog/react-server-components-in-production)
 - [Hovue: Building an Animated Vue Icon Library with Motion Baked In](https://abisoye.dev/blog/hovue-animated-vue-icon-library)
 - [Building Context-First Retrieval Pipelines](https://abisoye.dev/blog/rag-without-the-llm)
 
