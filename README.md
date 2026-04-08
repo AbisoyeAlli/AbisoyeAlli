@@ -99,14 +99,12 @@ const abisoye = {
 - [How to Detect and Handle Byzantine Failures in Distributed Systems](https://abisoye.dev/blog/when-your-api-lies-byzantine-failures)
 - [Designing Resilient APIs: Retry Strategies, Circuit Breakers, and Graceful Degradation](https://abisoye.dev/blog/designing-resilient-apis)
 - [Measuring and Optimizing Core Web Vitals on High-Traffic Pages](https://abisoye.dev/blog/measuring-optimizing-core-web-vitals)
-- [How to Use React Server Components in Production: Trade-offs and Patterns](https://abisoye.dev/blog/react-server-components-in-production)
-- [Hovue: Building an Animated Vue Icon Library with Motion Baked In](https://abisoye.dev/blog/hovue-animated-vue-icon-library)
 - [Building Context-First Retrieval Pipelines](https://abisoye.dev/blog/rag-without-the-llm)
 
-Read more **[here](https://abisoye.dev/blog)**, or subscribe to my **[substack](https://abisoyeoladayo.substack.com/)**
+Read more on **[my blog](https://abisoye.dev/blog)**, or on **[freecodecamp](https://www.freecodecamp.org/news/author/AbisoyeAlli/)**
 
 ### 🎯 Current Goals for 2026
-- 💼 Join a high-impact engineering team: Achieved ✅
+- 💼 Join a high-impact engineering team ✅ 
 - 🚀 Launch **Keelow** app
 - 📚 Deep dive into AI/ML & distributed systems
 - 🌱 Grow **Hovue** as an OSS project
